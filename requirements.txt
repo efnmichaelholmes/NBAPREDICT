@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+pickle-mixin
+requests
+nba_api
+scikit-learn
+xgboost
+lightgbm
